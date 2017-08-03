@@ -182,12 +182,15 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 _______________________________________________
 
 ## Instrucciones para participar en contests:
-Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2OJ permite realizar contests  con problemas de diferentes jueces online (Codeforces, Live Archive, UVA, SPOJ, etc.). Por lo tanto, necesitan crearse primero una cuenta en A2OJ, luego deben crearse cuentas en los jueces online que vayamos utilizando, y finalmente deben preocuparse de *linkear* sus cuentas de los jueces con su cuenta de A2OJ (para que A2OJ se pueda dar cuenta de que resolvieron un problema en un juez dado). A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir creándose las cuentas on demand (para cada contest se publicará con anticipación el link para registrarse + los jueces a utilizar). De todas formas acá abajo pueden encontrar links a posibles jueces:
+
+Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2OJ permite realizar contests  con problemas de diferentes jueces online (Codeforces, Live Archive, UVA, SPOJ, etc.). Por lo tanto, necesitan crearse primero una cuenta en A2OJ, luego deben crearse cuentas en los jueces online que vayamos utilizando, y finalmente deben preocuparse de *linkear* sus cuentas de los jueces con su cuenta de A2OJ (para que A2OJ se pueda dar cuenta de que resolvieron un problema en un juez dado). Los detalles de cómo hacer ese *link* con cada juez salen explicados en su página de account de A2OJ (https://a2oj.com/account).
+
+A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir creándose las cuentas on demand (para cada contest se publicará con anticipación el link para registrarse + los jueces a utilizar, así que no necesitan crearse todas las cuentas altiro). De todas formas acá abajo están links a posibles jueces (ordenados por probabilidad de uso):
 
 * Codeforces: http://codeforces.com/
 * Live Archive: https://icpcarchive.ecs.baylor.edu/
-* UVA: https://uva.onlinejudge.org/
 * URI: https://www.urionlinejudge.com.br/
+* UVA: https://uva.onlinejudge.org/
 * SPOJ: http://www.spoj.com/
 
 ## Contests
@@ -195,89 +198,6 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
   * Disponibilidad: 03/17/2017 - 03/24/2017 
   * Jueces a utilizar: Codeforces, Live Archive
   * hints: implementation, strings, DFS/BFS, geometry/math, greedy, sorting, binary search, two pointers, modular arithmetics, DP
-* Taller 2: https://a2oj.com/contest?ID=30727
-  * Disponibilidad: 03/24/2017 - 03/31/2017
-  * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
-  * hints: Grafos (BFS, DFS, Flood Fill, Dijkstra, Trees) + Binary Search + Ternary Search + Union-Find. Todos los problemas tienen que ver de alguna manera con grafos, pero un par de problemas requieren Binary Search/Ternary Search y el más difícil además necesita la estructura de datos Union-Find. Sobre grafos, lo más difícil sería el algoritmo de Dijkstra.
-* Taller 3: https://a2oj.com/contest?ID=30951
-  * Disponibilidad: 03/31/2017 - 04/07/2017
-  * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
-  * hints: Los mismos temas que el contest pasado: Grafos (BFS, DFS, Flood Fill, Dijkstra, Trees) + Binary Search + Ternary Search + Union-Find. Los cuatro problemas más difíciles del contest pasado fueron reutilizados, para que tengan la oportunidad de hacerlos de nuevo.
-* Taller 4: https://a2oj.com/contest?ID=31064
-  * Disponibilidad: 04/07/2017 - 04/21/2017 (dos semanas, por semana santa :D)
-  * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
-  * hints: Taller enfocado principalmente en IMPLEMENTACIÓN: 7 problemas de implementación (ningún algoritmo muy complicado) + 5 problemas reutilizados de contests pasados. Para la asistencia sólo se tomarán en cuenta los primeros 7 problemas. Con respecto a los otros 5 problemas, se publicarán soluciones de ejemplo para que las puedan usar como "inspiración" para hacer sus propias implementaciones (la idea es no hacer copy-paste).
-  * Soluciones 5 problemas reutilizados:
-    * Geophysics Propsection: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4010_GeophysicsProspection.cpp
-    * Galactic Taxes: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/13010_GalacticTaxes.cpp
-    * Height Map: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7210_HeightMap.cpp
-    * Dinosaur Menace: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/DINOSM_DinosaurMenace.cpp
-    * Kefa and Park: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/580C_KefaAndPark.cpp
-* Taller 5: https://a2oj.com/contest?ID=31316
-  * Disponibilidad: 04/21/2017 - 04/28/2017
-  * Jueces a utilizar: Codeforces, URI
-  * hints: binary search, ternary search, implementación
-* Taller 6: https://a2oj.com/contest?ID=31443
-  * Disponibilidad: 04/28/2017 - 05/05/2017
-  * Jueces a utilizar: Codeforces, Live Archive, URI
-  * hints: implementation, binary search, ternary search, dijkstra, implicit graph, bitwise operations, combinatorics
-  * NOTA: el taller tiene 8 problemas, los primeros 4 problemas son para la asistencia del taller actual, los otros 4 son problemas reusados del taller anterior para darles la oportunidad de recuperar la asistencia si es que no alcanzaron a hacer suficientes problemas. Las soluciones de los últimos 4 problemas van a ser explicadas en clases.
- * Taller 7: https://a2oj.com/contest?ID=31541
-   * Disponibilidad: 05/05/2017 - 05/12/2017
-   * Jueces a utilizar: Codeforces, URI
-   * hints: implicit graph, DAG, bitwise operations, longest/shortest path in DAG, modular arithmetics, combinatorics, binary search, implementation, constructive algorithms
-   * NOTA: 6 problemas en total
-     * problemas 1, 2, 3, 4 -> asistencia taller actual
-     * problemas 5, 6 -> recuperar asistencia taller anterior
-   * Soluciones de referencia (NO HACER COPY-PASTE)
-     * The Art of Dealing with ATM: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/524C_TheArtOfDealingWithATMs.cpp
-     * Hex Statistics: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HexStatistics.cpp
-     * Environment Protection: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6135_EnvironmentProtection.cpp
-     
-* Taller 8: https://a2oj.com/contest?ID=31619
-   * Disponibilidad: 05/12/2017 - 05/26/2017 (2 semanas)
-   * Jueces a utilizar: Codeforces, Live Archive, URI
-   * hints: DP, implementation
-   * Aclaraciones:
-     * 6 problemas en total -> todos son para asistencia taller actual
-     * Al menos 3 problemas para quedar presentes (presencial o desde la casa)
-   * Soluciones de referencia (NO HACER COPY-PASTE):
-     * Boredom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/455A_Boredom.cpp
-     * Gene Assembly: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/2387_GeneAssembly.cpp
-     * Candy: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4212_Candy.cpp
-     * Hyperactive Girl: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HyperactiveGirl.cpp
-     * Lucky Number Representation: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/354E_LuckyNumberRepresentation.cpp
-
-* Taller 9: https://a2oj.com/contest?ID=31802
-  * Disponibilidad: 05/26/2017 - 06/09/2017 (2 semanas)
-  * Jueces a utilizar: URI, Codeforces
-  * hints: DP, knapsack, bipartite graph, bicoloration, DFS/BFS, binary search
-  * Soluciones de Referencia (NO HAGAN COPY-PASTE):
-    * Alyona and the Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/682C_AlyonaAndTheTree.cpp
-    * Painting Fence: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/448C_PaintingFence.cpp
-    
-* Taller 10: https://a2oj.com/contest?ID=31908
-  * Disponibilidad: 06/02/2017 - 06/16/2017 (2 semanas)
-  * Jueces a utilizar: Codeforces
-  * hints: ver los tags de los problemas en codeforces
-  * Soluciones de Referencia (NO HAGAN COPY-PASTE):
-    * Vladik and Entertaining Flags: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/811E_VladikAndEntertainingFlags.cpp
-    * Tanya and Toys: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/659C_TanyaAndToys.cpp
-
-* Taller 11: https://a2oj.com/contest?ID=32005
-  * Disponibilidad: 06/09/2017 - 06/23/2017 (2 semanas)
-  * Jueces a utilizar: Codeforces
-  * hints: ver los tags de los problemas en codeforces
-  
-* Taller 12: https://a2oj.com/contest?ID=32109
-  * Disponibilidad: 06/16/2017 - 06/30/2017 (2 semanas)
-  * Jueces a utilizar: Codeforces, Live Archive
-  * hints: DFS, BFS, Divide & Conquer, DP, Segment Tree (range minimum query), bicoloration
-  
-* Taller Repechaje: https://a2oj.com/contest?ID=32137
-  * Disponibilidad: 06/18/2017 - 07/06/2017 (19 días)
-  * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
-  * hints: de todo
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
