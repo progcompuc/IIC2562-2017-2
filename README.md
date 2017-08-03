@@ -1,21 +1,24 @@
 
-# IIC2552 - Taller de Programación Avanzada
-## 2017-1
-Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
+# IIC2562 - Taller de Programación II
+## 2017-2
+Bienvenidos a la página de apoyo del curso Taller de Programación II.
 
-## Material de Estudio
+## Material de Apoyo
 
 ### General
+* (SUPER RECOMENDADO) Competitive Programmer's Handbook: https://www.cses.fi/book.pdf
+* (SUPER RECOMENDADO) Libro "Programacion Competitiva 3": https://www.dropbox.com/s/zlfto2p4zyrniva 
 * Techie Delight: Coding made easy: http://www.techiedelight.com/
-* Libro de Programación Competitiva: https://www.dropbox.com/s/zlfto2p4zyrniva
 * Sitio web del Taller de la U. de Chile: http://progcomp.cl/taller
-* Repo de Apuntes de Pablo Messina (C++): https://github.com/PabloMessina/Competitive-Programming-Material
+* Google Doc con muchos códigos (C++): https://docs.google.com/document/d/1rcex_saP4tExbbU62qGUjR3eenxOh-50i9Y45WtHkc4/edit
 * Google Doc con Apuntes de Robinson Castro et al (C++): https://docs.google.com/document/d/1pan53PU9_PIrPPVyNrbfXIAU-B6YnIaSBcB9lP9j0jE/edit
+* Repo de Apuntes de Pablo Messina (C++): https://github.com/PabloMessina/Competitive-Programming-Material
 * Repo de Apuntes del team Caloventor en Dos (C++): https://github.com/mvpossum/eldiego
 * Programación Competitiva CL:  https://www.youtube.com/channel/UCmVg7YyMS8H-65WCmkVHB9g/feed
 * Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
 * Material Campamento 2015 progcomp.cl: http://campamento2015.progcomp.cl/material
 * Material Campamento 2016 progcomp.cl: http://campamento2016.progcomp.cl/material
+* Material Campamento 2017 progcomp.cl: http://campamento2017.progcomp.cl/material
 
 ### Soluciones Regionales Latinoamericanas
 * Blogs con explicaciones:
