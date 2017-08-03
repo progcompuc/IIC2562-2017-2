@@ -7,7 +7,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
 
 ### General
 * (SUPER RECOMENDADO) Competitive Programmer's Handbook: https://www.cses.fi/book.pdf
-* (SUPER RECOMENDADO) Libro "Programacion Competitiva 3": https://www.dropbox.com/s/zlfto2p4zyrniva 
+* (SUPER RECOMENDADO) Competitive Programming 2: https://www.scribd.com/doc/155208844/Competitive-Programming-2
 * Techie Delight: Coding made easy: http://www.techiedelight.com/
 * Sitio web del Taller de la U. de Chile: http://progcomp.cl/taller
 * Google Doc con muchos códigos (C++): https://docs.google.com/document/d/1rcex_saP4tExbbU62qGUjR3eenxOh-50i9Y45WtHkc4/edit
