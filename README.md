@@ -24,7 +24,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
 * Blogs con explicaciones:
   * Blog CaloventorEnDos: http://caloventorendos.blogspot.cl
   * Chocoblog: https://chococontest.wordpress.com/
-* Google Sheet con soluciones de las últimas regionales (work in progress): https://docs.google.com/spreadsheets/d/1F8aBV83xKPVFfq_A0EKhCa8qbjf0gKKg8puQF-rbonQ/pubhtml
+* Google Sheet con soluciones de las últimas regionales (work in progress): https://docs.google.com/spreadsheets/d/1F8aBV83xKPVFfq_A0EKhCa8qbjf0gKKg8puQF-rbonQ/
 
 ### Para aprender C++ (si es que quieren)
  * LearnCpp: http://www.learncpp.com/
