@@ -195,8 +195,8 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
 A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir creándose las cuentas on demand (para cada contest se publicará con anticipación el link para registrarse + los jueces a utilizar, así que no necesitan crearse todas las cuentas altiro). De todas formas acá abajo están links a posibles jueces (ordenados por probabilidad de uso):
 
 * Codeforces: http://codeforces.com/
-* Live Archive: https://icpcarchive.ecs.baylor.edu/
 * URI: https://www.urionlinejudge.com.br/
+* Live Archive: https://icpcarchive.ecs.baylor.edu/
 * UVA: https://uva.onlinejudge.org/
 * SPOJ: http://www.spoj.com/
 
