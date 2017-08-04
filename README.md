@@ -205,6 +205,10 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Disponibilidad: 04/08/2017 - 18/08/2017 (2 semanas)
   * Jueces a utilizar: Codeforces, URI
   * hints: implementation, math, modular arithmetic, combinatorics, greedy, range compression, range sum query (rsq), sweep line
+  * Soluciones de ejemplo:
+     * Counting Substhreengs: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6823_CountingSubsthreengs.cpp
+      
+  
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
