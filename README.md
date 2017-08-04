@@ -207,6 +207,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * hints: implementation, math, modular arithmetic, combinatorics, greedy, range compression, range sum query (rsq), sweep line
   * Soluciones de ejemplo:
      * Counting Substhreengs: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6823_CountingSubsthreengs.cpp
+     * Fence the Vegetables: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6826_FenceTheVegetables.cpp
       
   
 __________________________________________________
