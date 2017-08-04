@@ -201,10 +201,10 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * SPOJ: http://www.spoj.com/
 
 ## Contests
-* Taller 1: https://a2oj.com/contest?ID=30488
-  * Disponibilidad: 03/17/2017 - 03/24/2017 
-  * Jueces a utilizar: Codeforces, Live Archive
-  * hints: implementation, strings, DFS/BFS, geometry/math, greedy, sorting, binary search, two pointers, modular arithmetics, DP
+* Taller 1: https://a2oj.com/contest?ID=32825
+  * Disponibilidad: 04/08/2017 - 18/08/2017 (2 semanas)
+  * Jueces a utilizar: Codeforces, URI
+  * hints: implementation, math, DFS/BFS, modular arithmetic, combinatorics, greedy, range compression, range sum query (rsq), sweep line
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
