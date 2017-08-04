@@ -66,8 +66,12 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
   * https://www.youtube.com/watch?v=ZBHKZF5w4YU
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree.cpp
 * Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
-* Fenwick Tree:  & https://www.youtube.com/watch?v=CWDQJGaN1gY
-* Fenwick Tree 2D: http://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
+* Fenwick Tree:
+  * https://www.youtube.com/watch?v=CWDQJGaN1gY
+  * https://cs.stackexchange.com/questions/10538/bit-what-is-the-intuition-behind-a-binary-indexed-tree-and-how-was-it-thought-a
+  * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#2d
+* Fenwick Tree 2D:
+  * http://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
 * Wavelet Tree: https://www.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
 
 ### Dynamic Programming (DP):
