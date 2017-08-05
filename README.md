@@ -68,6 +68,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
 * Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
 * Fenwick Tree:
   * https://www.youtube.com/watch?v=CWDQJGaN1gY
+  * http://progcomp.cl/fenwicktree
   * https://cs.stackexchange.com/questions/10538/bit-what-is-the-intuition-behind-a-binary-indexed-tree-and-how-was-it-thought-a
   * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#2d
 * Fenwick Tree 2D:
