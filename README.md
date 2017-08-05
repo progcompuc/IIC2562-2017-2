@@ -208,6 +208,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Soluciones de ejemplo:
      * Counting Substhreengs: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6823_CountingSubsthreengs.cpp
      * Fence the Vegetables: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6826_FenceTheVegetables.cpp
+     * Fence the Vegetables Fail: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/13009_FenceTheVegetablesFail.cpp
       
   
 __________________________________________________
