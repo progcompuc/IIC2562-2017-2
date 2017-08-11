@@ -66,7 +66,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
   * https://www.youtube.com/watch?v=ZBHKZF5w4YU
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree.cpp
 * Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
-* Fenwick Tree:
+* Fenwick Tree (a.k.a. BIT o Binary Indexed Tree):
   * https://www.youtube.com/watch?v=CWDQJGaN1gY
   * https://youtu.be/0PzR0IoqkkU?t=1453 (sweep line + fenwick tree)     
   * http://progcomp.cl/fenwicktree
@@ -210,8 +210,12 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Soluciones de ejemplo:
      * Counting Substhreengs: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6823_CountingSubsthreengs.cpp
      * Fence the Vegetables: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6826_FenceTheVegetables.cpp
-     * Fence the Vegetables Fail: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/13009_FenceTheVegetablesFail.cpp
-      
+     * Fence the Vegetables Fail: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/13009_FenceTheVegetablesFail.cpp     
+     
+* Taller 2: https://a2oj.com/contest?ID=32943
+  * Disponibilidad: 11/08/2017 - 25/08/2017 (2 semanas)
+  * Jueces a utilizar: Codeforces, SPOJ, UVA
+  * hints: data structures, fenwick tree (a.k.a binary indexed tree o BIT), segment tree
   
 __________________________________________________
 
