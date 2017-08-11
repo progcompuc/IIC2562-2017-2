@@ -74,6 +74,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
   * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#2d
 * Fenwick Tree 2D:
   * http://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
+  * https://youtu.be/0PzR0IoqkkU?t=4207
 * Wavelet Tree: https://www.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
 
 ### Dynamic Programming (DP):
