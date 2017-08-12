@@ -66,15 +66,16 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
   * https://www.youtube.com/watch?v=ZBHKZF5w4YU
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree.cpp
 * Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
-* Fenwick Tree (a.k.a. BIT o Binary Indexed Tree):
-  * https://www.youtube.com/watch?v=CWDQJGaN1gY
-  * https://youtu.be/0PzR0IoqkkU?t=1453 (sweep line + fenwick tree)     
+* Fenwick Tree (a.k.a. BIT o Binary Indexed Tree):  
+  * (recomendado) (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=2160 (sweep line + fenwick tree)
+    * https://youtu.be/0PzR0IoqkkU?t=1453 (por si quieren ver la explicación de **sweep line** también que viene justo antes)
+  * (recomendado) https://www.youtube.com/watch?v=CWDQJGaN1gY
   * http://progcomp.cl/fenwicktree
   * https://cs.stackexchange.com/questions/10538/bit-what-is-the-intuition-behind-a-binary-indexed-tree-and-how-was-it-thought-a
   * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#2d
 * Fenwick Tree 2D:
   * http://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
-  * https://youtu.be/0PzR0IoqkkU?t=4207
+  * (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=4207
 * Wavelet Tree: https://www.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
 
 ### Dynamic Programming (DP):
