@@ -67,7 +67,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree.cpp
 * Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
 * Fenwick Tree (a.k.a. BIT o Binary Indexed Tree):  
-  * (recomendado) (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=2160 (sweep line + fenwick tree)
+  * (recomendado) (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=2160
     * https://youtu.be/0PzR0IoqkkU?t=1453 (por si quieren ver la explicación de **sweep line** también que viene justo antes)
   * (recomendado) https://www.youtube.com/watch?v=CWDQJGaN1gY
   * http://progcomp.cl/fenwicktree
