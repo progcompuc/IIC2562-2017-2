@@ -72,10 +72,11 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
   * (recomendado) https://www.youtube.com/watch?v=CWDQJGaN1gY
   * http://progcomp.cl/fenwicktree
   * https://cs.stackexchange.com/questions/10538/bit-what-is-the-intuition-behind-a-binary-indexed-tree-and-how-was-it-thought-a
-  * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#2d
+  * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
 * Fenwick Tree 2D:
   * http://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
   * (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=4207
+  * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#2d
 * Wavelet Tree: https://www.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
 
 ### Dynamic Programming (DP):
