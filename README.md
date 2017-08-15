@@ -219,6 +219,10 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Disponibilidad: 11/08/2017 - 25/08/2017 (2 semanas)
   * Jueces a utilizar: Codeforces, SPOJ, UVA
   * hints: data structures, fenwick tree (a.k.a binary indexed tree o BIT), segment tree
+  * Soluciones de ejemplo:
+    * Fenwick Trees: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/FENTREE_FenwickTrees.cpp
+    * Potentiometers: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/12086_Potentiometers.cpp
+    * Cvjetici: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/CVJETICI_Cvjetici.cpp
   
 __________________________________________________
 
