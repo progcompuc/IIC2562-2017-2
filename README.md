@@ -223,6 +223,11 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     * Fenwick Trees: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/FENTREE_FenwickTrees.cpp
     * Potentiometers: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/12086_Potentiometers.cpp
     * Cvjetici: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/CVJETICI_Cvjetici.cpp
+    
+* Taller 3: https://a2oj.com/contest?ID=33016
+  * Disponibilidad: 18/08/2017 - 01/09/2017 (2 semanas)
+  * Jueces a utilizar: Codeforces, URI, SPOJ
+  * hints: Segment Tree, BIT, data structures, math
   
 __________________________________________________
 
