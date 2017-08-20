@@ -228,6 +228,8 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Disponibilidad: 18/08/2017 - 01/09/2017 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, SPOJ
   * hints: Segment Tree, BIT, data structures, math
+  * Soluciones de ejemplo:
+    * Interval Product: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/IntervalProduct.cpp
   
 __________________________________________________
 
