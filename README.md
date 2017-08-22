@@ -230,6 +230,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * hints: Segment Tree, BIT, data structures, math
   * Soluciones de ejemplo:
     * Interval Product: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/IntervalProduct.cpp
+    * Maximum Sum: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/KGSS_MaximumSum.cpp
   
 __________________________________________________
 
