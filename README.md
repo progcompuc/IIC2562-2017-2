@@ -231,6 +231,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Soluciones de ejemplo:
     * Interval Product: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/IntervalProduct.cpp
     * Maximum Sum: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/KGSS_MaximumSum.cpp
+    * Xenia and Bit Operations: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/339D_XeniaAndBitOperations.cpp
   
 __________________________________________________
 
