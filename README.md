@@ -236,7 +236,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
       * este problema tiene Segment Tree + GCD + Sieve of Eratosthenes, desafiante pero entretenido a la vez :D
   
 * Taller 4: https://a2oj.com/contest?ID=33138
-  * Disponibilidad: 18/08/2017 - 01/09/2017 (2 semanas)
+  * Disponibilidad: 25/08/2017 - 08/09/2017 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
   * hints: greedy, graphs, DFS, binary search, polygon area, DP (dynamic programming), probabilities, range minimum query (segment tree)
 __________________________________________________
