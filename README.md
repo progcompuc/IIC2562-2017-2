@@ -234,6 +234,8 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     * Xenia and Bit Operations: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/339D_XeniaAndBitOperations.cpp
     * Divisors: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/EC_DIVS_Divisors.cpp
       * este problema tiene Segment Tree + GCD + Sieve of Eratosthenes, desafiante pero entretenido a la vez :D
+    * Jupiter Attacks!: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JupiterAttacks.cpp
+       * problema de regional bien difícil de implementar. Hay que usar segment tree + aritmética modular. Cada nodo del segment tree guarda el hash relativo a su rango, y el hash del padre se obtiene haciendo un merge (con cuidado) de los hashes de los nodos hijos. Hay que tener cuidado en la implementación, como el caso borde de tener un hijo fuera del rango de la query, saber restar modularmente, etc.
   
 * Taller 4: https://a2oj.com/contest?ID=33138
   * Disponibilidad: 25/08/2017 - 08/09/2017 (2 semanas)
