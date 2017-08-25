@@ -240,7 +240,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 4: https://a2oj.com/contest?ID=33138
   * Disponibilidad: 25/08/2017 - 08/09/2017 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
-  * hints: greedy, graphs, DFS, binary search, polygon area, DP (dynamic programming), probabilities, range minimum query (segment tree)
+  * hints: greedy, implementation, sorting
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
