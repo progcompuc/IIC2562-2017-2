@@ -243,7 +243,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * hints: greedy, implementation, sorting
   
 * Taller 5: https://a2oj.com/contest?ID=33385
-  * Disponibilidad: 08/09/2017 - 22/09/2017 (2 semanas)
+  * Disponibilidad: 08/09/2017 - 06/10/2017 (4 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
   * hints: strings, Trie, KMP
 __________________________________________________
