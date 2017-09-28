@@ -246,6 +246,11 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Disponibilidad: 08/09/2017 - 06/10/2017 (4 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
   * hints: strings, Trie, KMP
+  
+* Taller 6: https://a2oj.com/contest?ID=33704
+  * Disponibilidad: 29/09/2017 - 13/10/2017 (2 semanas)
+  * Jueces a utilizar: Codeforces, URI
+  * hints: Segment Tree, Divide & Conquer, DP, DP (divide & conquer optimization), DP (convex hull optimization), Binary Search
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
