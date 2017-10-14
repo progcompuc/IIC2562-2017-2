@@ -251,6 +251,8 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Disponibilidad: 29/09/2017 - 20/10/2017 (3 semanas)
   * Jueces a utilizar: Codeforces, URI
   * hints: Segment Tree, Divide & Conquer, DP, DP (divide & conquer optimization), DP (convex hull optimization), Binary Search
+  * Soluciones de ejemplo:
+    * Candies and Stones: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/101E_CandiesAndStones.cpp
   
 * Taller 7: https://a2oj.com/contest?ID=34008
   * Disponibilidad: 13/10/2017 - 27/10/2017 (2 semanas)
