@@ -127,9 +127,13 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
   * https://www.quora.com/Why-does-storing-log-N-pointers-work-in-the-jump-pointer-solution-of-the-level-ancestor-problem
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/LA.cpp
 * Max Flow:
-  * Ford-Fulkerson Algorithm: https://www.youtube.com/watch?v=Tl90tNtKvxs
+  * Ford-Fulkerson Algorithm:
+     * https://www.youtube.com/watch?v=Tl90tNtKvxs
+     * https://www.youtube.com/watch?v=MczX0SM3I84
+     * https://www.youtube.com/watch?v=GiN3jRdgxU4
   * Dinic Algorithm:
     * https://www.youtube.com/watch?v=uM06jHdIC70
+    * http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15451-f14/www/lectures/lec11/dinic.pdf
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dinic.cpp
   * Application:
     * Maximum Bipartite Matching: http://www.geeksforgeeks.org/maximum-bipartite-matching/
