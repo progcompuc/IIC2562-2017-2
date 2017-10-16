@@ -258,6 +258,8 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Disponibilidad: 13/10/2017 - 27/10/2017 (2 semanas)
   * Jueces a utilizar: Live Archive, URI, SPOJ
   * hints: Graphs, Dinic, Max-Flow / Min-Cut
+  * Soluciones de ejemplo:
+    * Domino Art: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4011_DominoArt.cpp
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
