@@ -265,6 +265,11 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * hints: Graphs, Dinic, Max-Flow / Min-Cut
   * Soluciones de ejemplo:
     * Domino Art: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4011_DominoArt.cpp
+    
+* Taller 8: https://a2oj.com/contest?ID=34109
+  * Disponibilidad: 20/10/2017 - 10/11/2017 (3 semanas)
+  * Jueces a utilizar: URI
+  * hints: de todo, mix de problemas de regionales latam
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
