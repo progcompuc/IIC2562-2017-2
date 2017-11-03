@@ -267,7 +267,12 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     * Domino Art: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4011_DominoArt.cpp
     
 * Taller 8: https://a2oj.com/contest?ID=34109
-  * Disponibilidad: 20/10/2017 - 10/11/2017 (3 semanas)
+  * Disponibilidad: 20/10/2017 - 11/11/2017 (3 semanas)
+  * Jueces a utilizar: URI
+  * hints: de todo, mix de problemas de regionales latam
+
+* Taller 9: https://a2oj.com/contest?ID=34347
+  * Disponibilidad: 03/11/2017 - 17/11/2017 (2 semanas)
   * Jueces a utilizar: URI
   * hints: de todo, mix de problemas de regionales latam
 __________________________________________________
