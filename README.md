@@ -274,7 +274,12 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 9: https://a2oj.com/contest?ID=34347
   * Disponibilidad: 03/11/2017 - 17/11/2017 (2 semanas)
   * Jueces a utilizar: URI
-  * hints: de todo, mix de problemas de regionales latam
+  * hints: de todo, mix de problemas de regionales latam/
+
+* Taller Repechaje: https://a2oj.com/contest?ID=34497
+  * Disponibilidad: hasta que se cierren las notas
+  * Jueces a utilizar: Codeforces
+  * hints: de todo
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
